@@ -77,7 +77,7 @@ model = Doc2Vec.load("headlines1.d2v.model")
 # ***--------***
 
 # UI Stuff
-st.title("Text Analytics Assignment - Yousha")
+st.title("Text Analytics Assignment - Rafay")
 
 query = st.text_input(
     "Write Query and Press Enter", "Karachi witnessed decrease in terrorism"
